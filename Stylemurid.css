@@ -156,10 +156,6 @@ h4{
 .col-5 img {
     width: 100%;
     cursor: pointer;
-    filter: grayscale(100%);
-}
-.col-5 img:hover{
-    filter: grayscale(0);
 }
 .footer {
     background:#000;
